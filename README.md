@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utsav</h1>
 <h3 align="center">A Second Year Student at Veermata Jijabai Technological Institute</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavk28&label=Profile%20views&color=0e75b6&style=flat" alt="utsavk28" /> </p>
-
-<p align="left"> <a href="https://twitter.com/utsavkhatu" target="blank"><img src="https://img.shields.io/twitter/follow/utsavkhatu?logo=twitter&style=for-the-badge" alt="utsavkhatu" /></a> </p>
-
 - 🔭 I’m currently working on [Social](https://github.com/utsavk28/Social)
 
 - 🌱 I’m currently learning **Socket.io , Three Js**
@@ -16,6 +12,10 @@
 - 📫 How to reach me **utsavkhatu416@gmail.com**
 
 - ⚡ Fun fact **Can Speak English, JS and Python**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavk28&label=Profile%20views&color=0e75b6&style=flat" alt="utsavk28" /> </p>
+
+<p align="left"> <a href="https://twitter.com/utsavkhatu" target="blank"><img src="https://img.shields.io/twitter/follow/utsavkhatu?logo=twitter&style=for-the-badge" alt="utsavkhatu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
