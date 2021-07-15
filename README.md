@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utsav</h1>
 <h3 align="center">A Second Year Student at Veermata Jijabai Technological Institute</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=utsavk28&label=Profile%20views&color=0e75b6&style=flat" alt="utsavk28" /> </p>
 
 - 🔭 I’m currently working on [Social](https://github.com/utsavk28/Social)
 
@@ -12,8 +13,6 @@
 - 📫 How to reach me **utsavkhatu416@gmail.com**
 
 - ⚡ Fun fact **Can Speak English, JS and Python**
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=utsavk28&label=Profile%20views&color=0e75b6&style=flat" alt="utsavk28" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
