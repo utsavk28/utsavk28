@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utsav</h1>
-<h3 align="center">A Second Year Student at Veermata Jijabai Technological Institute</h3>
+<h3 align="center">Pre Final Year Student at Veermata Jijabai Technological Institute</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utsavk28&label=Profile%20views&color=0e75b6&style=flat" alt="utsavk28" /> </p>
 
 - 🔭 I’m currently working on [Social](https://github.com/utsavk28/Social)
@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Socket.io , Three Js**
 
 - 👯 I’m looking to collaborate on [Social](https://github.com/utsavk28/Social)
+
+- 👨‍💻 Want to know more? Check out my [portfolio](https://utsavkhatu.netlify.app/)
 
 - 💬 Ask me about **MERN Stack**
 
