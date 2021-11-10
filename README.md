@@ -2,9 +2,9 @@
 <h3 align="center">Pre Final Year Student at Veermata Jijabai Technological Institute</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utsavk28&label=Profile%20views&color=0e75b6&style=flat" alt="utsavk28" /> </p>
 
-- 🔭 I’m currently working on [Social](https://github.com/utsavk28/Social)
+- 🔭 I’m currently working on [ML Algorithms Implementation](https://github.com/utsavk28/ML-Algorithms)
 
-- 🌱 I’m currently learning **Socket.io , Three Js**
+- 🌱 I’m currently learning **Machine Learning & Data Science**
 
 - 👯 I’m looking to collaborate on [Social](https://github.com/utsavk28/Social)
 
