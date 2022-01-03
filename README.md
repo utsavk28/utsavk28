@@ -10,7 +10,7 @@
 
 - 👨‍💻 Want to know more? Check out my [portfolio](https://utsavkhatu.netlify.app/) (OutDated)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **utsavkhatu416@gmail.com**
 
