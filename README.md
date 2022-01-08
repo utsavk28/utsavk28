@@ -10,11 +10,11 @@
 
 - 👨‍💻 Want to know more? Check out my [portfolio](https://utsavkhatu.netlify.app/) (OutDated)
 
-- 💬 Ask me about **Web**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **utsavkhatu416@gmail.com**
 
-- ⚡ Fun fact **Can Speak English, JS and Python**
+- ⚡ Fun fact **Into Manga's & Manhwa's**
 
 
 <h3 align="left">Languages and Tools:</h3>
