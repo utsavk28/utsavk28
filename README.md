@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on [Detective Dog](https://github.com/utsavk28/DetectiveDog)
 
-- 🌱 I’m currently learning **Machine Learning & Data Science**
+- 🌱 I’m currently learning **Deep Learning**
 
 <!-- - 👯 I’m looking to collaborate on [Social](https://github.com/utsavk28/Social) -->
 
 - 👨‍💻 Want to know more? Check out my [portfolio](https://utsavkhatu.netlify.app/) (OutDated)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Machine Learning & Web Development**
 
 - 📫 How to reach me **utsavkhatu416@gmail.com**
 
