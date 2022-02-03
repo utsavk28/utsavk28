@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **utsavkhatu416@gmail.com**
 
-- ⚡ Fun fact **Into Manga's & Manhwa's**
+- ⚡ Fun fact **Learning at Learning Rate 3e-5**
 
 
 <h3 align="left">Languages and Tools:</h3>
