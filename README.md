@@ -1,5 +1,5 @@
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
 
 <h1 align="center">Hi 👋, I'm Utsav</h1>
 <h3 align="center">Pre Final Year Student at Veermata Jijabai Technological Institute</h3>
