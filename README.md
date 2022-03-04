@@ -8,7 +8,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [Social](https://github.com/utsavk28/Social) -->
 
-- 👨‍💻 Want to know more? Check out my [portfolio](https://utsavkhatu.netlify.app/) (OutDated)
+- 👨‍💻 Want to know more? Check out my [portfolio](https://www.utsavkhatu.tech/) (In Progress)
 
 - 💬 Ask me about **Machine Learning & Web Development**
 
