@@ -31,9 +31,7 @@
 	  <a href="https://kaggle.com/utsavk02" target="blank">
 	    <img src='https://img.shields.io/badge/Kaggle-Competitions%20Contributor-20beff?style=for-the-badge&logo=kaggle'/>
 	  </a>
-	</div>
-		<div>
-	  <a href="https://machinehack.com/user/profile/ui/5ef0a238b7efcc325e39346a" target="blank">
+	  	  <a href="https://machinehack.com/user/profile/ui/5ef0a238b7efcc325e39346a" target="blank">
 	    <img src='https://img.shields.io/badge/MachineHack-CHAMPION-01fbff?style=for-the-badge&logo=Probot' /> 
 	   </a>
 	</div>
@@ -44,9 +42,7 @@
 	    <a href="https://codeforces.com/profile/utsavk02" target="blank">
 	    <img src='https://img.shields.io/badge/Codeforces-specialist-03a89e?style=for-the-badge&logo=codeforces' /> 
 	   </a>
-	</div>
-	<div>
-	  <a href="https://www.leetcode.com/utsavk02" target="blank">
+	   	 <a href="https://www.leetcode.com/utsavk02" target="blank">
 	    <img src='https://img.shields.io/badge/LeetCode-180+%20%20Problems%20Solved-ffa116?style=for-the-badge&logo=leetcode' /> 
 	   </a>
 	</div>
