@@ -51,9 +51,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div  >
+	<div  >
 	<img src='https://img.shields.io/badge/Programming%20Language-696969?style=for-the-badge'/>
 	<br/>
-		<div>
+		<div style='background-color:#00000080;' >
 		<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%2B%2B.svg' />
 		<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c.svg' />
 		<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg' />
@@ -64,7 +65,7 @@
 		</div>
 </div>
 <br/>
-<div>
+		<div style='background-color:#00000080;' >
 	<img src='https://img.shields.io/badge/Web%20Development-696969?style=for-the-badge&logo=Weblate' />
 		<br/>
 	<div>
@@ -89,7 +90,7 @@
    </div>
 </div>
 <br/>
-<div>
+	<div style='background-color:#00000080;' >
 	<img src='https://img.shields.io/badge/Machine%20Learning-696969?style=for-the-badge&logo=Probot' />
 		<br/>
 	<div>
@@ -108,13 +109,14 @@
 <div  >
 	<img src='https://img.shields.io/badge/Android%20Development-696969?style=for-the-badge&logo=android' />
 		<br/>
-		<div>
+		<div style='background-color:#00000080;' >
 				<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/dart.svg' />
 	<img width="60" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" /> 
 	<img width="60" src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="android studio" /> 
 		</div>
 </div>
 <br/>
+</div>
 
 <br/>
 <br/>
