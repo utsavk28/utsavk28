@@ -25,7 +25,9 @@
 <a href="https://www.codechef.com/users/utsavk02" target="blank">
   <img src='https://img.shields.io/badge/Codechef-4%20Star-green?style=for-the-badge&logo=codechef'/>   
 </a>
-<a href="https://codeforces.com/profile/utsavk02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="utsavk02" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/utsavk02" target="blank">
+  <img src='https://img.shields.io/badge/Codeforces-Pupil-green?style=for-the-badge&logo=codeforces' /> 
+ </a>
 <a href="https://www.leetcode.com/utsavk02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utsavk02" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@utsav231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@utsav231" height="30" width="40" /></a>
   
