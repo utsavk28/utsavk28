@@ -22,12 +22,17 @@
 <a href="https://twitter.com/utsavkhatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utsavkhatu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utsavkhatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsavkhatu" height="30" width="40" /></a>
 <a href="https://kaggle.com/utsavk02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utsavk02" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/utsavk02" target="blank">
-  <img src='https://img.shields.io/badge/Codechef-4%20Star-green?style=for-the-badge&logo=codechef'/>   
-</a>
-<a href="https://codeforces.com/profile/utsavk02" target="blank">
-  <img src='https://img.shields.io/badge/Codeforces-Pupil-green?style=for-the-badge&logo=codeforces' /> 
- </a>
+<div>
+  <a href="https://www.codechef.com/users/utsavk02" target="blank">
+    <img src='https://img.shields.io/badge/Codechef-4%20Star-green?style=for-the-badge&logo=codechef'/>   
+  </a>
+</div>
+<div>
+  <a href="https://codeforces.com/profile/utsavk02" target="blank">
+    <img src='https://img.shields.io/badge/Codeforces-Pupil-green?style=for-the-badge&logo=codeforces' /> 
+   </a>
+</div>
+
 <a href="https://www.leetcode.com/utsavk02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utsavk02" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@utsav231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@utsav231" height="30" width="40" /></a>
   
