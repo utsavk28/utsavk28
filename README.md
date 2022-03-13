@@ -19,38 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div >
-	<div>
-	  <a href="https://twitter.com/utsavkhatu" target="blank">
-	    <img src='https://img.shields.io/badge/Twitter-Connect-1DA1F2?style=for-the-badge&logo=twitter'/>
-	  </a>
-	   <a href="https://linkedin.com/in/utsavkhatu" target="blank">
-	    <img src='https://img.shields.io/badge/Linkedin-Connect-0A66C2?style=for-the-badge&logo=linkedin'/>
-	  </a>
-	</div>
-	<div>
-	  <a href="https://kaggle.com/utsavk02" target="blank">
-	    <img src='https://img.shields.io/badge/Kaggle-Competitions%20Contributor-20beff?style=for-the-badge&logo=kaggle'/>
-	  </a>
-	  	  <a href="https://machinehack.com/user/profile/ui/5ef0a238b7efcc325e39346a" target="blank">
-	    <img src='https://img.shields.io/badge/MachineHack-CHAMPION-01fbff?style=for-the-badge&logo=Probot' /> 
-	   </a>
-	</div>
-	<div>
-	  <a href="https://www.codechef.com/users/utsavk02" target="blank">
-	    <img src='https://img.shields.io/badge/Codechef-4%20Star-684273?style=for-the-badge&logo=codechef'/>   
-	  </a>
-	    <a href="https://codeforces.com/profile/utsavk02" target="blank">
-	    <img src='https://img.shields.io/badge/Codeforces-specialist-03a89e?style=for-the-badge&logo=codeforces' /> 
-	   </a>
-	   	 <a href="https://www.leetcode.com/utsavk02" target="blank">
-	    <img src='https://img.shields.io/badge/LeetCode-180+%20%20Problems%20Solved-ffa116?style=for-the-badge&logo=leetcode' /> 
-	   </a>
-	</div>
-</div>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<div  >
+	<div  >
 	<img src='https://img.shields.io/badge/Programming%20Language-696969?style=for-the-badge'/>
 		<div>
 		<img width='40' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%2B%2B.svg' />
@@ -62,6 +31,7 @@
 		<img width='40' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/dart.svg' />
 		</div>
 </div>
+<br/>
 <div>
 	<img src='https://img.shields.io/badge/Web%20Development-696969?style=for-the-badge&logo=Weblate' />
 	<div>
@@ -85,6 +55,7 @@
        <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/postgresql.svg" alt="PostreSQL" /> 
    </div>
 </div>
+<br/>
 <div>
 	<img src='https://img.shields.io/badge/Machine%20Learning-696969?style=for-the-badge&logo=Probot' />
 	<div>
@@ -100,6 +71,7 @@
 		<img width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" /> 
    </div>
 </div>
+<br/>
 <div  >
 	<img src='https://img.shields.io/badge/Android%20Development-696969?style=for-the-badge&logo=android' />
 		<div>
@@ -107,6 +79,9 @@
 	<img width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" /> 
 	<img width="40" src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="android studio" /> 
 		</div>
+</div>
+<br/>
+
 </div>
 
 
