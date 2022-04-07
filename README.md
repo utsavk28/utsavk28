@@ -106,7 +106,7 @@
    </div>
 </div>
 <br/>
-<div  >
+<!-- <div  >
 	<img src='https://img.shields.io/badge/Android%20Development-696969?style=for-the-badge&logo=android' />
 		<br/>
 		<div style='background-color:#00000080;' >
@@ -115,7 +115,7 @@
 	<img width="60" src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="android studio" /> 
 		</div>
 </div>
-<br/>
+<br/> -->
 </div>
 
 <br/>
