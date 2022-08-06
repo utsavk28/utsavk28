@@ -37,13 +37,13 @@
 	</div>
 	<div>
 	  <a href="https://www.codechef.com/users/utsavk02" target="blank">
-	    <img src='https://img.shields.io/badge/Codechef-4%20Star-684273?style=for-the-badge&logo=codechef'/>   
+	    <img src='https://img.shields.io/badge/Codechef-5%20Star-684273?style=for-the-badge&logo=codechef'/>   
 	  </a>
 	    <a href="https://codeforces.com/profile/utsavk02" target="blank">
 	    <img src='https://img.shields.io/badge/Codeforces-specialist-03a89e?style=for-the-badge&logo=codeforces' /> 
 	   </a>
 	   	 <a href="https://www.leetcode.com/utsavk02" target="blank">
-	    <img src='https://img.shields.io/badge/LeetCode-250+%20%20Problems%20Solved-ffa116?style=for-the-badge&logo=leetcode' /> 
+	    <img src='https://img.shields.io/badge/LeetCode-270+%20%20Problems%20Solved-ffa116?style=for-the-badge&logo=leetcode' /> 
 	   </a>
 	</div>
 </div>
