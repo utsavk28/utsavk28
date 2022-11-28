@@ -43,7 +43,7 @@
 	    <img src='https://img.shields.io/badge/Codeforces-specialist-03a89e?style=for-the-badge&logo=codeforces' /> 
 	   </a>
 	   	 <a href="https://www.leetcode.com/utsavk02" target="blank">
-	    <img src='https://img.shields.io/badge/LeetCode-450+%20%20Problems%20Solved-ffa116?style=for-the-badge&logo=leetcode' /> 
+	    <img src='https://img.shields.io/badge/LeetCode-500+%20%20Problems%20Solved-ffa116?style=for-the-badge&logo=leetcode' /> 
 	   </a>
 	</div>
 </div>
