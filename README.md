@@ -37,7 +37,7 @@
 	</div>
 	<div>
 	  <a href="https://www.codechef.com/users/utsavk02" target="blank">
-	    <img src='https://img.shields.io/badge/Codechef-4%20Star-684273?style=for-the-badge&logo=codechef'/>   
+	    <img src='https://img.shields.io/badge/Codechef-4%20Star-FFBF00?style=for-the-badge&logo=codechef'/>   
 	  </a>
 	    <a href="https://codeforces.com/profile/utsavk02" target="blank">
 	    <img src='https://img.shields.io/badge/Codeforces-specialist-03a89e?style=for-the-badge&logo=codeforces' /> 
